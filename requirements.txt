@@ -1,0 +1,2 @@
+python interpreter
+pip install numpy
